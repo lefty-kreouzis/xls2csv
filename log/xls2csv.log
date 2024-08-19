@@ -1,0 +1,158 @@
+2024-08-19 14:04:26.953+0300  INFO 31404 --- [           main] g.rtfm.util.xls2csv.Xls2csvApplication   : Starting Xls2csvApplication v0.0.1-SNAPSHOT using Java 21.0.4 with PID 31404 (C:\Users\lefty\Coding\src\xls2csv\target\xls2csv-0.0.1-SNAPSHOT.jar started by lefty in C:\Users\lefty\Coding\src\xls2csv)
+2024-08-19 14:04:26.957+0300  INFO 31404 --- [           main] g.rtfm.util.xls2csv.Xls2csvApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-08-19 14:04:28.624+0300  INFO 31404 --- [           main] g.rtfm.util.xls2csv.Xls2csvApplication   : Started Xls2csvApplication in 2.12 seconds (process running for 3.035)
+2024-08-19 14:04:28.725+0300  INFO 31404 --- [           main] g.rtfm.util.xls2csv.commands.ConvertXLS  : fromFile:Timetable Nov 2023.xlsx
+2024-08-19 14:04:29.328+0300  INFO 31404 --- [           main] g.rtfm.util.xls2csv.commands.ConvertXLS  : importXLS(): Sheet:0 Name:'Master'
+2024-08-19 14:04:29.382+0300  INFO 31404 --- [           main] g.rtfm.util.xls2csv.commands.ConvertXLS  : importXLS(): Sheet:1 Name:'Year 11'
+2024-08-19 14:04:29.390+0300  INFO 31404 --- [           main] g.rtfm.util.xls2csv.commands.ConvertXLS  : importXLS(): Sheet:2 Name:'Year 12'
+2024-08-19 14:04:29.406+0300  INFO 31404 --- [           main] g.rtfm.util.xls2csv.commands.ConvertXLS  : importXLS(): Sheet:3 Name:'Year 13'
+2024-08-19 14:05:35.272+0300  INFO 35264 --- [           main] g.rtfm.util.xls2csv.Xls2csvApplication   : Starting Xls2csvApplication v0.0.1-SNAPSHOT using Java 21.0.4 with PID 35264 (C:\Users\lefty\Coding\src\xls2csv\target\xls2csv-0.0.1-SNAPSHOT.jar started by lefty in C:\Users\lefty\Coding\src\xls2csv)
+2024-08-19 14:05:35.274+0300  INFO 35264 --- [           main] g.rtfm.util.xls2csv.Xls2csvApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-08-19 14:05:36.997+0300  INFO 35264 --- [           main] g.rtfm.util.xls2csv.Xls2csvApplication   : Started Xls2csvApplication in 2.275 seconds (process running for 3.152)
+2024-08-19 14:05:37.107+0300  INFO 35264 --- [           main] g.rtfm.util.xls2csv.commands.ConvertXLS  : fromFile:Timetable Nov 2023.xlsx
+2024-08-19 14:05:37.766+0300  INFO 35264 --- [           main] g.rtfm.util.xls2csv.commands.ConvertXLS  : importXLS(): Sheet:0 Name:'Master'
+2024-08-19 14:05:37.829+0300  INFO 35264 --- [           main] g.rtfm.util.xls2csv.commands.ConvertXLS  : importXLS(): Sheet:1 Name:'Year 11'
+2024-08-19 14:05:37.840+0300  INFO 35264 --- [           main] g.rtfm.util.xls2csv.commands.ConvertXLS  : importXLS(): Sheet:2 Name:'Year 12'
+2024-08-19 14:05:37.857+0300  INFO 35264 --- [           main] g.rtfm.util.xls2csv.commands.ConvertXLS  : importXLS(): Sheet:3 Name:'Year 13'
+2024-08-19 14:11:05.228+0300  INFO 21792 --- [           main] g.rtfm.util.xls2csv.Xls2csvApplication   : Starting Xls2csvApplication v0.0.1-SNAPSHOT using Java 21.0.4 with PID 21792 (C:\Users\lefty\Coding\src\xls2csv\target\xls2csv-0.0.1-SNAPSHOT.jar started by lefty in C:\Users\lefty\Coding\src\xls2csv)
+2024-08-19 14:11:05.230+0300  INFO 21792 --- [           main] g.rtfm.util.xls2csv.Xls2csvApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-08-19 14:11:06.793+0300  INFO 21792 --- [           main] g.rtfm.util.xls2csv.Xls2csvApplication   : Started Xls2csvApplication in 2.029 seconds (process running for 2.926)
+2024-08-19 14:11:06.906+0300  INFO 21792 --- [           main] g.rtfm.util.xls2csv.commands.ConvertXLS  : fromFile:Timetable Nov 2023.xlsx
+2024-08-19 14:11:07.581+0300  INFO 21792 --- [           main] g.rtfm.util.xls2csv.commands.ConvertXLS  : importXLS(): Sheet:0 Name:'Master'
+2024-08-19 14:11:07.637+0300  INFO 21792 --- [           main] g.rtfm.util.xls2csv.commands.ConvertXLS  : importXLS(): Sheet:1 Name:'Year 11'
+2024-08-19 14:11:07.657+0300  INFO 21792 --- [           main] g.rtfm.util.xls2csv.commands.ConvertXLS  : importXLS(): Sheet:2 Name:'Year 12'
+2024-08-19 14:11:07.671+0300  INFO 21792 --- [           main] g.rtfm.util.xls2csv.commands.ConvertXLS  : importXLS(): Sheet:3 Name:'Year 13'
+2024-08-19 14:30:41.144+0300  INFO 32560 --- [           main] g.rtfm.util.xls2csv.Xls2csvApplication   : Starting Xls2csvApplication v0.0.1-SNAPSHOT using Java 21.0.4 with PID 32560 (C:\Users\lefty\Coding\src\xls2csv\target\xls2csv-0.0.1-SNAPSHOT.jar started by lefty in C:\Users\lefty\Coding\src\xls2csv)
+2024-08-19 14:30:41.149+0300  INFO 32560 --- [           main] g.rtfm.util.xls2csv.Xls2csvApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-08-19 14:30:42.857+0300  INFO 32560 --- [           main] g.rtfm.util.xls2csv.Xls2csvApplication   : Started Xls2csvApplication in 2.582 seconds (process running for 3.938)
+2024-08-19 14:30:42.962+0300  INFO 32560 --- [           main] g.rtfm.util.xls2csv.commands.ConvertXLS  : fromFile:Timetable Nov 2023.xlsx
+2024-08-19 14:30:43.617+0300  INFO 32560 --- [           main] g.rtfm.util.xls2csv.commands.ConvertXLS  : importXLS(): Sheet:0 Name:'Master'
+2024-08-19 14:30:43.677+0300  INFO 32560 --- [           main] g.rtfm.util.xls2csv.commands.ConvertXLS  : importXLS(): Sheet:1 Name:'Year 11'
+2024-08-19 14:30:43.689+0300  INFO 32560 --- [           main] g.rtfm.util.xls2csv.commands.ConvertXLS  : importXLS(): Sheet:2 Name:'Year 12'
+2024-08-19 14:30:43.701+0300  INFO 32560 --- [           main] g.rtfm.util.xls2csv.commands.ConvertXLS  : importXLS(): Sheet:3 Name:'Year 13'
+2024-08-19 14:31:31.119+0300  INFO 36100 --- [           main] g.rtfm.util.xls2csv.Xls2csvApplication   : Starting Xls2csvApplication v0.0.1-SNAPSHOT using Java 21.0.4 with PID 36100 (C:\Users\lefty\Coding\src\xls2csv\target\xls2csv-0.0.1-SNAPSHOT.jar started by lefty in C:\Users\lefty\Coding\src\xls2csv)
+2024-08-19 14:31:31.122+0300  INFO 36100 --- [           main] g.rtfm.util.xls2csv.Xls2csvApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-08-19 14:31:32.697+0300  INFO 36100 --- [           main] g.rtfm.util.xls2csv.Xls2csvApplication   : Started Xls2csvApplication in 2.021 seconds (process running for 2.885)
+2024-08-19 14:31:32.801+0300  INFO 36100 --- [           main] g.rtfm.util.xls2csv.commands.ConvertXLS  : fromFile:Timetable Nov 2023.xlsx
+2024-08-19 14:31:33.398+0300  INFO 36100 --- [           main] g.rtfm.util.xls2csv.commands.ConvertXLS  : importXLS(): Sheet:0 Name:'Master'
+2024-08-19 14:31:33.444+0300  INFO 36100 --- [           main] g.rtfm.util.xls2csv.commands.ConvertXLS  : importXLS(): Sheet:1 Name:'Year 11'
+2024-08-19 14:31:33.456+0300  INFO 36100 --- [           main] g.rtfm.util.xls2csv.commands.ConvertXLS  : importXLS(): Sheet:2 Name:'Year 12'
+2024-08-19 14:31:33.466+0300  INFO 36100 --- [           main] g.rtfm.util.xls2csv.commands.ConvertXLS  : importXLS(): Sheet:3 Name:'Year 13'
+2024-08-19 14:31:57.860+0300  INFO 38208 --- [           main] g.rtfm.util.xls2csv.Xls2csvApplication   : Starting Xls2csvApplication v0.0.1-SNAPSHOT using Java 21.0.4 with PID 38208 (C:\Users\lefty\Coding\src\xls2csv\target\xls2csv-0.0.1-SNAPSHOT.jar started by lefty in C:\Users\lefty\Coding\src\xls2csv)
+2024-08-19 14:31:57.863+0300  INFO 38208 --- [           main] g.rtfm.util.xls2csv.Xls2csvApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-08-19 14:31:59.738+0300  INFO 38208 --- [           main] g.rtfm.util.xls2csv.Xls2csvApplication   : Started Xls2csvApplication in 2.36 seconds (process running for 3.379)
+2024-08-19 14:31:59.848+0300  INFO 38208 --- [           main] g.rtfm.util.xls2csv.commands.ConvertXLS  : fromFile:Timetable Nov 2023.xlsx
+2024-08-19 14:32:00.517+0300  INFO 38208 --- [           main] g.rtfm.util.xls2csv.commands.ConvertXLS  : importXLS(): Sheet:0 Name:'Master'
+2024-08-19 14:32:00.574+0300  INFO 38208 --- [           main] g.rtfm.util.xls2csv.commands.ConvertXLS  : importXLS(): Sheet:1 Name:'Year 11'
+2024-08-19 14:32:00.594+0300  INFO 38208 --- [           main] g.rtfm.util.xls2csv.commands.ConvertXLS  : importXLS(): Sheet:2 Name:'Year 12'
+2024-08-19 14:32:00.606+0300  INFO 38208 --- [           main] g.rtfm.util.xls2csv.commands.ConvertXLS  : importXLS(): Sheet:3 Name:'Year 13'
+2024-08-19 14:33:54.094+0300  INFO 40464 --- [           main] g.rtfm.util.xls2csv.Xls2csvApplication   : Starting Xls2csvApplication v0.0.1-SNAPSHOT using Java 21.0.4 with PID 40464 (C:\Users\lefty\Coding\src\xls2csv\target\xls2csv-0.0.1-SNAPSHOT.jar started by lefty in C:\Users\lefty\Coding\src\xls2csv)
+2024-08-19 14:33:54.095+0300  INFO 40464 --- [           main] g.rtfm.util.xls2csv.Xls2csvApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-08-19 14:33:55.771+0300  INFO 40464 --- [           main] g.rtfm.util.xls2csv.Xls2csvApplication   : Started Xls2csvApplication in 2.152 seconds (process running for 3.06)
+2024-08-19 14:33:55.887+0300  INFO 40464 --- [           main] g.rtfm.util.xls2csv.commands.ConvertXLS  : fromFile:Timetable Nov 2023.xlsx
+2024-08-19 14:33:56.529+0300  INFO 40464 --- [           main] g.rtfm.util.xls2csv.commands.ConvertXLS  : importXLS(): Sheet:0 Name:'Master'
+2024-08-19 14:33:56.572+0300  INFO 40464 --- [           main] g.rtfm.util.xls2csv.commands.ConvertXLS  : importXLS(): Sheet:1 Name:'Year 11'
+2024-08-19 14:33:56.582+0300  INFO 40464 --- [           main] g.rtfm.util.xls2csv.commands.ConvertXLS  : importXLS(): Sheet:2 Name:'Year 12'
+2024-08-19 14:33:56.587+0300  INFO 40464 --- [           main] g.rtfm.util.xls2csv.commands.ConvertXLS  : importXLS(): Sheet:3 Name:'Year 13'
+2024-08-19 14:35:22.455+0300  INFO 32560 --- [           main] g.rtfm.util.xls2csv.Xls2csvApplication   : Starting Xls2csvApplication v0.0.1-SNAPSHOT using Java 21.0.4 with PID 32560 (C:\Users\lefty\Coding\src\xls2csv\target\xls2csv-0.0.1-SNAPSHOT.jar started by lefty in C:\Users\lefty\Coding\src\xls2csv)
+2024-08-19 14:35:22.457+0300  INFO 32560 --- [           main] g.rtfm.util.xls2csv.Xls2csvApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-08-19 14:35:24.022+0300  INFO 32560 --- [           main] g.rtfm.util.xls2csv.Xls2csvApplication   : Started Xls2csvApplication in 2.113 seconds (process running for 3.031)
+2024-08-19 14:35:24.116+0300  INFO 32560 --- [           main] g.rtfm.util.xls2csv.commands.ConvertXLS  : fromFile:Timetable Nov 2023.xlsx
+2024-08-19 14:35:24.782+0300  INFO 32560 --- [           main] g.rtfm.util.xls2csv.commands.ConvertXLS  : importXLS(): Sheet:0 Name:'Master'
+2024-08-19 14:35:24.833+0300  INFO 32560 --- [           main] g.rtfm.util.xls2csv.commands.ConvertXLS  : importXLS(): Sheet:1 Name:'Year 11'
+2024-08-19 14:35:24.841+0300  INFO 32560 --- [           main] g.rtfm.util.xls2csv.commands.ConvertXLS  : importXLS(): Sheet:2 Name:'Year 12'
+2024-08-19 14:35:24.854+0300  INFO 32560 --- [           main] g.rtfm.util.xls2csv.commands.ConvertXLS  : importXLS(): Sheet:3 Name:'Year 13'
+2024-08-19 14:39:59.031+0300  INFO 43832 --- [           main] g.rtfm.util.xls2csv.Xls2csvApplication   : Starting Xls2csvApplication v0.0.1-SNAPSHOT using Java 21.0.4 with PID 43832 (C:\Users\lefty\Coding\src\xls2csv\target\xls2csv-0.0.1-SNAPSHOT.jar started by lefty in C:\Users\lefty\Coding\src\xls2csv)
+2024-08-19 14:39:59.036+0300  INFO 43832 --- [           main] g.rtfm.util.xls2csv.Xls2csvApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-08-19 14:40:00.299+0300  WARN 43832 --- [           main] org.jline                                : Unable to create a system terminal, creating a dumb terminal (enable debug logging for more information)
+2024-08-19 14:40:00.630+0300  INFO 43832 --- [           main] g.rtfm.util.xls2csv.Xls2csvApplication   : Started Xls2csvApplication in 2.105 seconds (process running for 2.983)
+2024-08-19 14:40:00.767+0300  INFO 43832 --- [           main] g.rtfm.util.xls2csv.commands.ConvertXLS  : fromFile:Timetable Nov 2023.xlsx,2
+2024-08-19 14:41:43.160+0300  INFO 17060 --- [           main] g.rtfm.util.xls2csv.Xls2csvApplication   : Starting Xls2csvApplication v0.0.1-SNAPSHOT using Java 21.0.4 with PID 17060 (C:\Users\lefty\Coding\src\xls2csv\target\xls2csv-0.0.1-SNAPSHOT.jar started by lefty in C:\Users\lefty\Coding\src\xls2csv)
+2024-08-19 14:41:43.166+0300  INFO 17060 --- [           main] g.rtfm.util.xls2csv.Xls2csvApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-08-19 14:41:45.004+0300  INFO 17060 --- [           main] g.rtfm.util.xls2csv.Xls2csvApplication   : Started Xls2csvApplication in 2.386 seconds (process running for 3.402)
+2024-08-19 14:41:45.131+0300  INFO 17060 --- [           main] g.rtfm.util.xls2csv.commands.ConvertXLS  : fromFile:Timetable Nov 2023.xlsx,--toFile,test.csv
+2024-08-19 14:42:44.813+0300  INFO 9808 --- [           main] g.rtfm.util.xls2csv.Xls2csvApplication   : Starting Xls2csvApplication v0.0.1-SNAPSHOT using Java 21.0.4 with PID 9808 (C:\Users\lefty\Coding\src\xls2csv\target\xls2csv-0.0.1-SNAPSHOT.jar started by lefty in C:\Users\lefty\Coding\src\xls2csv)
+2024-08-19 14:42:44.814+0300  INFO 9808 --- [           main] g.rtfm.util.xls2csv.Xls2csvApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-08-19 14:42:46.553+0300  INFO 9808 --- [           main] g.rtfm.util.xls2csv.Xls2csvApplication   : Started Xls2csvApplication in 2.229 seconds (process running for 3.203)
+2024-08-19 14:42:46.714+0300  INFO 9808 --- [           main] g.rtfm.util.xls2csv.commands.ConvertXLS  : fromFile:Timetable Nov 2023.xlsx
+2024-08-19 14:42:47.483+0300  INFO 9808 --- [           main] g.rtfm.util.xls2csv.commands.ConvertXLS  : importXLS(): Sheet:0 Name:'Master'
+2024-08-19 14:42:47.557+0300  INFO 9808 --- [           main] g.rtfm.util.xls2csv.commands.ConvertXLS  : importXLS(): Sheet:1 Name:'Year 11'
+2024-08-19 14:42:47.575+0300  INFO 9808 --- [           main] g.rtfm.util.xls2csv.commands.ConvertXLS  : importXLS(): Sheet:2 Name:'Year 12'
+2024-08-19 14:42:47.588+0300  INFO 9808 --- [           main] g.rtfm.util.xls2csv.commands.ConvertXLS  : importXLS(): Sheet:3 Name:'Year 13'
+2024-08-19 14:43:36.214+0300  INFO 42696 --- [           main] g.rtfm.util.xls2csv.Xls2csvApplication   : Starting Xls2csvApplication v0.0.1-SNAPSHOT using Java 21.0.4 with PID 42696 (C:\Users\lefty\Coding\src\xls2csv\target\xls2csv-0.0.1-SNAPSHOT.jar started by lefty in C:\Users\lefty\Coding\src\xls2csv)
+2024-08-19 14:43:36.216+0300  INFO 42696 --- [           main] g.rtfm.util.xls2csv.Xls2csvApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-08-19 14:43:37.958+0300  INFO 42696 --- [           main] g.rtfm.util.xls2csv.Xls2csvApplication   : Started Xls2csvApplication in 2.279 seconds (process running for 3.426)
+2024-08-19 14:43:38.081+0300  INFO 42696 --- [           main] g.rtfm.util.xls2csv.commands.ConvertXLS  : fromFile:Transaction.xlsx
+2024-08-19 14:43:38.797+0300  INFO 42696 --- [           main] g.rtfm.util.xls2csv.commands.ConvertXLS  : importXLS(): Sheet:0 Name:'Sheet1'
+2024-08-19 14:45:26.458+0300  INFO 43736 --- [           main] g.rtfm.util.xls2csv.Xls2csvApplication   : Starting Xls2csvApplication v0.0.1-SNAPSHOT using Java 21.0.4 with PID 43736 (C:\Users\lefty\Coding\src\xls2csv\target\xls2csv-0.0.1-SNAPSHOT.jar started by lefty in C:\Users\lefty\Coding\src\xls2csv)
+2024-08-19 14:45:26.460+0300  INFO 43736 --- [           main] g.rtfm.util.xls2csv.Xls2csvApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-08-19 14:45:27.914+0300  INFO 43736 --- [           main] g.rtfm.util.xls2csv.Xls2csvApplication   : Started Xls2csvApplication in 1.921 seconds (process running for 2.861)
+2024-08-19 14:45:28.028+0300  INFO 43736 --- [           main] g.rtfm.util.xls2csv.commands.ConvertXLS  : fromFile:Transaction.xlsx
+2024-08-19 14:45:28.717+0300  INFO 43736 --- [           main] g.rtfm.util.xls2csv.commands.ConvertXLS  : importXLS(): Sheet:0 Name:'Sheet1'
+2024-08-19 14:45:42.268+0300  INFO 22132 --- [           main] g.rtfm.util.xls2csv.Xls2csvApplication   : Starting Xls2csvApplication v0.0.1-SNAPSHOT using Java 21.0.4 with PID 22132 (C:\Users\lefty\Coding\src\xls2csv\target\xls2csv-0.0.1-SNAPSHOT.jar started by lefty in C:\Users\lefty\Coding\src\xls2csv)
+2024-08-19 14:45:42.271+0300  INFO 22132 --- [           main] g.rtfm.util.xls2csv.Xls2csvApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-08-19 14:45:44.073+0300  INFO 22132 --- [           main] g.rtfm.util.xls2csv.Xls2csvApplication   : Started Xls2csvApplication in 2.387 seconds (process running for 3.377)
+2024-08-19 14:45:44.197+0300  INFO 22132 --- [           main] g.rtfm.util.xls2csv.commands.ConvertXLS  : fromFile:Transaction.xlsx,--toFile,Test.csv
+2024-08-19 14:46:05.763+0300  INFO 18928 --- [           main] g.rtfm.util.xls2csv.Xls2csvApplication   : Starting Xls2csvApplication v0.0.1-SNAPSHOT using Java 21.0.4 with PID 18928 (C:\Users\lefty\Coding\src\xls2csv\target\xls2csv-0.0.1-SNAPSHOT.jar started by lefty in C:\Users\lefty\Coding\src\xls2csv)
+2024-08-19 14:46:05.767+0300  INFO 18928 --- [           main] g.rtfm.util.xls2csv.Xls2csvApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-08-19 14:46:07.402+0300  INFO 18928 --- [           main] g.rtfm.util.xls2csv.Xls2csvApplication   : Started Xls2csvApplication in 2.63 seconds (process running for 3.993)
+2024-08-19 14:46:07.440+0300  INFO 18928 --- [           main] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-08-19 14:46:07.465+0300 ERROR 18928 --- [           main] o.s.boot.SpringApplication               : Application run failed
+
+org.springframework.shell.command.CommandExecution$CommandParserExceptionsException: Command parser resulted errors
+	at org.springframework.shell.command.CommandExecution$DefaultCommandExecution.evaluate(CommandExecution.java:175)
+	at org.springframework.shell.Shell.evaluate(Shell.java:248)
+	at org.springframework.shell.Shell.run(Shell.java:159)
+	at org.springframework.shell.jline.NonInteractiveShellRunner.run(NonInteractiveShellRunner.java:146)
+	at org.springframework.shell.DefaultShellApplicationRunner.run(DefaultShellApplicationRunner.java:65)
+	at org.springframework.boot.SpringApplication.lambda$callRunner$4(SpringApplication.java:786)
+	at org.springframework.util.function.ThrowingConsumer$1.acceptWithException(ThrowingConsumer.java:83)
+	at org.springframework.util.function.ThrowingConsumer.accept(ThrowingConsumer.java:60)
+	at org.springframework.util.function.ThrowingConsumer$1.accept(ThrowingConsumer.java:88)
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:798)
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:786)
+	at org.springframework.boot.SpringApplication.lambda$callRunners$3(SpringApplication.java:774)
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:184)
+	at java.base/java.util.stream.SortedOps$SizedRefSortingSink.end(SortedOps.java:357)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:510)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:151)
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:174)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:774)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:342)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1363)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1352)
+	at gr.rtfm.util.xls2csv.Xls2csvApplication.main(Xls2csvApplication.java:10)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.springframework.boot.loader.launch.Launcher.launch(Launcher.java:91)
+	at org.springframework.boot.loader.launch.Launcher.launch(Launcher.java:53)
+	at org.springframework.boot.loader.launch.JarLauncher.main(JarLauncher.java:58)
+
+2024-08-19 14:46:23.127+0300  INFO 7492 --- [           main] g.rtfm.util.xls2csv.Xls2csvApplication   : Starting Xls2csvApplication v0.0.1-SNAPSHOT using Java 21.0.4 with PID 7492 (C:\Users\lefty\Coding\src\xls2csv\target\xls2csv-0.0.1-SNAPSHOT.jar started by lefty in C:\Users\lefty\Coding\src\xls2csv)
+2024-08-19 14:46:23.129+0300  INFO 7492 --- [           main] g.rtfm.util.xls2csv.Xls2csvApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-08-19 14:46:24.754+0300  INFO 7492 --- [           main] g.rtfm.util.xls2csv.Xls2csvApplication   : Started Xls2csvApplication in 2.098 seconds (process running for 3.004)
+2024-08-19 14:47:28.267+0300  INFO 18428 --- [           main] g.rtfm.util.xls2csv.Xls2csvApplication   : Starting Xls2csvApplication v0.0.1-SNAPSHOT using Java 21.0.4 with PID 18428 (C:\Users\lefty\Coding\src\xls2csv\target\xls2csv-0.0.1-SNAPSHOT.jar started by lefty in C:\Users\lefty\Coding\src\xls2csv)
+2024-08-19 14:47:28.270+0300  INFO 18428 --- [           main] g.rtfm.util.xls2csv.Xls2csvApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-08-19 14:47:30.296+0300  INFO 18428 --- [           main] g.rtfm.util.xls2csv.Xls2csvApplication   : Started Xls2csvApplication in 2.543 seconds (process running for 3.761)
+2024-08-19 14:47:30.497+0300  INFO 18428 --- [           main] g.rtfm.util.xls2csv.commands.ConvertXLS  : fromFile:Transaction.xlsx
+2024-08-19 14:47:31.504+0300  INFO 18428 --- [           main] g.rtfm.util.xls2csv.commands.ConvertXLS  : importXLS(): Sheet:0 Name:'Sheet1'
+2024-08-19 14:51:32.439+0300  INFO 14140 --- [           main] g.rtfm.util.xls2csv.Xls2csvApplication   : Starting Xls2csvApplication v0.0.1-SNAPSHOT using Java 21.0.4 with PID 14140 (C:\Users\lefty\Coding\src\xls2csv\target\xls2csv-0.0.1-SNAPSHOT.jar started by lefty in C:\Users\lefty\Coding\src\xls2csv)
+2024-08-19 14:51:32.440+0300  INFO 14140 --- [           main] g.rtfm.util.xls2csv.Xls2csvApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-08-19 14:51:34.188+0300  INFO 14140 --- [           main] g.rtfm.util.xls2csv.Xls2csvApplication   : Started Xls2csvApplication in 2.304 seconds (process running for 3.884)
+2024-08-19 14:51:34.313+0300  INFO 14140 --- [           main] g.rtfm.util.xls2csv.commands.ConvertXLS  : fromFile:C:/Users/lefty/Test.xlsx
+2024-08-19 14:51:34.867+0300  INFO 14140 --- [           main] g.rtfm.util.xls2csv.commands.ConvertXLS  : importXLS(): Sheet:0 Name:'Sheet1'
+2024-08-19 15:24:05.067+0300  INFO 38516 --- [           main] g.rtfm.util.xls2csv.Xls2csvApplication   : Starting Xls2csvApplication v0.0.1-SNAPSHOT using Java 21.0.4 with PID 38516 (C:\Users\lefty\Coding\src\xls2csv\target\xls2csv-0.0.1-SNAPSHOT.jar started by lefty in C:\Users\lefty\Coding\src\xls2csv)
+2024-08-19 15:24:05.069+0300  INFO 38516 --- [           main] g.rtfm.util.xls2csv.Xls2csvApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-08-19 15:24:06.760+0300  INFO 38516 --- [           main] g.rtfm.util.xls2csv.Xls2csvApplication   : Started Xls2csvApplication in 2.191 seconds (process running for 3.074)
+2024-08-19 15:24:06.877+0300  INFO 38516 --- [           main] g.rtfm.util.xls2csv.commands.ConvertXLS  : fromFile:C:/Users/lefty/Test.xlsx
+2024-08-19 15:24:07.548+0300  INFO 38516 --- [           main] g.rtfm.util.xls2csv.commands.ConvertXLS  : importXLS(): Sheet:0 Name:'Sheet1'
+2024-08-19 15:24:45.419+0300  INFO 39800 --- [           main] g.rtfm.util.xls2csv.Xls2csvApplication   : Starting Xls2csvApplication v0.0.1-SNAPSHOT using Java 21.0.4 with PID 39800 (C:\Users\lefty\Coding\src\xls2csv\target\xls2csv-0.0.1-SNAPSHOT.jar started by lefty in C:\Users\lefty\Coding\src\xls2csv)
+2024-08-19 15:24:45.427+0300  INFO 39800 --- [           main] g.rtfm.util.xls2csv.Xls2csvApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-08-19 15:24:47.556+0300  INFO 39800 --- [           main] g.rtfm.util.xls2csv.Xls2csvApplication   : Started Xls2csvApplication in 2.634 seconds (process running for 3.555)
+2024-08-19 15:24:47.686+0300  INFO 39800 --- [           main] g.rtfm.util.xls2csv.commands.ConvertXLS  : fromFile:C:/Users/lefty/Test.xlsx
+2024-08-19 15:24:48.334+0300  INFO 39800 --- [           main] g.rtfm.util.xls2csv.commands.ConvertXLS  : importXLS(): Sheet:0 Name:'Sheet1'
