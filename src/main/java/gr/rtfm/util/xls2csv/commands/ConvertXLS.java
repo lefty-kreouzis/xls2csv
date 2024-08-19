@@ -6,6 +6,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintStream;
 import java.math.BigDecimal;
+import java.text.SimpleDateFormat;
 import java.util.LinkedList;
 import java.util.List;
 
@@ -15,6 +16,7 @@ import org.springframework.shell.standard.ShellComponent;
 import org.springframework.shell.standard.ShellMethod;
 import org.springframework.shell.standard.ShellOption;
 import org.apache.poi.ss.usermodel.CellType;
+import org.apache.poi.ss.usermodel.DateUtil;
 import org.apache.poi.xssf.usermodel.XSSFCell;
 import org.apache.poi.xssf.usermodel.XSSFRow;
 import org.apache.poi.xssf.usermodel.XSSFSheet;
@@ -99,14 +101,26 @@ public class ConvertXLS {
             case STRING:
                 return cell.getStringCellValue();
             case NUMERIC:
-                return BigDecimal.valueOf(cell.getNumericCellValue()).stripTrailingZeros().toPlainString();
+                if (DateUtil.isCellDateFormatted(cell)) {
+                    // Format the date as needed, e.g., "yyyy-MM-dd"
+                    SimpleDateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
+                    return dateFormat.format(cell.getDateCellValue());
+                } else {
+                    return BigDecimal.valueOf(cell.getNumericCellValue()).stripTrailingZeros().toPlainString();
+                }
             case FORMULA:
                 CellType fType = cell.getCachedFormulaResultType();
                 switch (fType) {
                     case STRING:
                         return cell.getStringCellValue();
                     case NUMERIC:
+                    if (DateUtil.isCellDateFormatted(cell)) {
+                        // Format the date as needed, e.g., "yyyy-MM-dd"
+                        SimpleDateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
+                        return dateFormat.format(cell.getDateCellValue());
+                    } else {
                         return BigDecimal.valueOf(cell.getNumericCellValue()).stripTrailingZeros().toPlainString();
+                    }
                     default:
                         return cell.toString();
                 }
