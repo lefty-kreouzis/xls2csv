@@ -77,11 +77,8 @@ public class ConvertXLS {
             {
                 for (int c = row.getFirstCellNum(); c <= row.getLastCellNum(); c++) {
                     XSSFCell cell = row.getCell(c);
-                    if (cell != null) {
-                        rowData.add(getSafeString(cell));
-                    } else {
-                        rowData.add("");
-                    }
+                    String data = getSafeString(cell);
+                    rowData.add(data);
                 }    
             }
             try {
@@ -96,14 +93,14 @@ public class ConvertXLS {
         if (cell == null) {
             return "";
         }
-
+        SimpleDateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
         switch (cell.getCellType()) {
             case STRING:
                 return cell.getStringCellValue();
             case NUMERIC:
                 if (DateUtil.isCellDateFormatted(cell)) {
                     // Format the date as needed, e.g., "yyyy-MM-dd"
-                    SimpleDateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
+                    
                     return dateFormat.format(cell.getDateCellValue());
                 } else {
                     return BigDecimal.valueOf(cell.getNumericCellValue()).stripTrailingZeros().toPlainString();
@@ -116,7 +113,6 @@ public class ConvertXLS {
                     case NUMERIC:
                     if (DateUtil.isCellDateFormatted(cell)) {
                         // Format the date as needed, e.g., "yyyy-MM-dd"
-                        SimpleDateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
                         return dateFormat.format(cell.getDateCellValue());
                     } else {
                         return BigDecimal.valueOf(cell.getNumericCellValue()).stripTrailingZeros().toPlainString();
